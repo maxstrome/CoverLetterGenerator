@@ -11,7 +11,7 @@ Welcome to the AI Cover Letter Generator! This open-source project uses OpenAI's
 ## Installation
 
 1. Clone this repository:
-`git clone https://github.com/yourgithubusername/ai-cover-letter-generator.git`
+`git clone https://github.com/maxstrome/CoverLetterGenerator.git`
 2. Change to the project directory:
 `cd ai-cover-letter-generator`
 3. Install the required dependencies:
