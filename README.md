@@ -1,6 +1,6 @@
 # AI Cover Letter Generator
 
-Welcome to the AI Cover Letter Generator! This open-source project uses OpenAI's GPT Models, Langchain, and Streamlit to create an interactive web application that generates a customized cover letter based on your resume and a job description. The project is designed to simplify the job application process and help job seekers create high-quality, personalized cover letters more efficiently.  This project is deployed using Streamlit cloud and can be found here: `https://aicoverlettergenerator.streamlit.app/`
+Welcome to the AI Cover Letter Generator! This open-source project uses OpenAI's GPT Models, Langchain, and Streamlit to create an interactive web application that generates a customized cover letter based on your resume and a job description. The project is designed to simplify the job application process and help job seekers create high-quality, personalized cover letters more efficiently.  This project is deployed using Streamlit cloud and can be found [here](https://aicoverlettergenerator.streamlit.app/)
 
 ## Features
 
